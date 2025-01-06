@@ -5,4 +5,6 @@ another modified into this first file by the remote repository
 
 this modiified from my local repository .
 
-this new modificaiton from another place where you do not hear about it 
+this new modificaiton from another place where you do not hear about it
+
+dose the change from the remote conflict again with that line of changes  

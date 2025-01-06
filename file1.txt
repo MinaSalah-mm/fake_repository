@@ -7,4 +7,5 @@ this modiified from my local repository .
 
 this new modificaiton from another place where you do not hear about it
 
-dose the change from the remote conflict again with that line of changes  
+another modification in order to use the rebase true instead of using merge 
+

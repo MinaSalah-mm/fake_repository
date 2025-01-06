@@ -6,3 +6,5 @@ another modified into this first file by the remote repository
 this modiified from my local repository .
 
 this new modificaiton from another place where you do not hear about it 
+
+another modification in order to use the rebase true instead of using merge 
